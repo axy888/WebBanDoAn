@@ -13,6 +13,9 @@ An online website that helps you buy food and drinks. You can manage the website
   * You can **assign permissions** to any accounts as you wish(except admin role).
   * You can **process user orders**, and processed orders can no longer be canceled.
 
+## Technology
+PHP, Bootstrap, JavaScript, Ajax
+
 ## Getting Started
 
 ### Installing
