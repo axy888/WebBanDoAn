@@ -20,6 +20,13 @@ PHP, Bootstrap, JavaScript, Ajax
 
 ### Installing
 
+First, clone the repository to your local machine using the following command:
+
+```
+https://github.com/axy888/WebBanDoAn.git
+cd WebBanDoAn
+```
+
 Install the sql file  ```sieuthi.sql``` in the folder ```database``` and add it to your database.
 
 The **admin** file is in the folder ```admin```.
